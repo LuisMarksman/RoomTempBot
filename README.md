@@ -3,26 +3,6 @@
 This project allows you to monitor room temperature and humidity using an ESP32 and DHT11 sensor. The data is logged to Google Sheets via Google Apps Script and retrieved through a Telegram Bot using a `/temp` command.
 
 
-##  Project Structure
-
-
-RoomTempBot/
-│
-├── esp32Code/             # Arduino code for ESP32 and Arduino Cloud
-│   ├── main.ino
-│   └── thingProperties.h
-│
-├── GoogleAppsScript/      # Google Apps Script to log and serve data
-│   ├── Code.gs
-│   └── README.md
-│
-├── telegrambot/           # Telegram bot setup guide
-│   └── TelegramBot_README.md
-│
-└── README.md              #Master guide to the entire project
-
-
-
 
 ##  Overview of Components
 
