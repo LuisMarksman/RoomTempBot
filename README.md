@@ -65,7 +65,7 @@ Make sure you update:
 
 
 ### Live Sensor Data in Google Sheets
-![Google Sheet](Assets/google sheets.PNG)
+![google sheets](Assets/google sheets.PNG)
 
 
 ## 3. Telegram Bot Integration
@@ -98,7 +98,7 @@ User: /temp
 Bot: Room temperature is 28.5°C and humidity is 67%.
 
 ### Telegram Bot in Action
-![Telegram Response](Assets/Telegram bot live interaction.jpg)
+![Telegram bot live interaction](Assets/Telegram bot live interaction.jpg)
 
 
 ## Potential Extensions
