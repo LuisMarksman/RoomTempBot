@@ -1,5 +1,3 @@
-// Google Apps Script: Telegram Bot Integration with Google Sheets
-// Sanitized version for GitHub upload
 
 function doPost(e) {
   var data = JSON.parse(e.postData.contents);
