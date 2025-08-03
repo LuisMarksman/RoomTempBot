@@ -38,7 +38,7 @@ Make sure you update:
 - Google Apps Script URL
 
 ### Circuit digram
-![Circuit Digram](Assets/Circuit Digram.PNG)
+![Circuit Digram](Assets/Circuit_Digram.PNG)
 
 ### hardware
 ![hardware](Assets/hardware.jpg)
@@ -65,7 +65,7 @@ Make sure you update:
 
 
 ### Live Sensor Data in Google Sheets
-![google sheets](Assets/google sheets.PNG)
+![google sheets](Assets/google_sheets.PNG)
 
 
 ## 3. Telegram Bot Integration
@@ -98,7 +98,7 @@ User: /temp
 Bot: Room temperature is 28.5°C and humidity is 67%.
 
 ### Telegram Bot in Action
-![Telegram bot live interaction](Assets/Telegram bot live interaction.jpg)
+![Telegram bot live interaction](Assets/Telegram_bot_response.jpg)
 
 
 ## Potential Extensions
