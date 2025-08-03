@@ -37,6 +37,11 @@ Make sure you update:
 - Your Wi-Fi credentials
 - Google Apps Script URL
 
+### Circuit digram
+![wiring](Assets/Circuit Digram.PNG)
+
+### hardware
+![hardware](Assets/hardware.jpg)
 
 
 ## 2. Google Sheets + Apps Script
@@ -58,6 +63,9 @@ Make sure you update:
 
  Full details: See `GoogleAppsScript/README.md`
 
+
+### Live Sensor Data in Google Sheets
+![Google Sheet](Assets/google sheets.PNG)
 
 
 ## 3. Telegram Bot Integration
@@ -89,6 +97,8 @@ https://api.telegram.org/bot<YOUR_BOT_TOKEN>/setWebhook?url=<YOUR_WEB_APP_URL>
 User: /temp
 Bot: Room temperature is 28.5°C and humidity is 67%.
 
+### Telegram Bot in Action
+![Telegram Response](Assets/Telegram bot live interaction.jpg)
 
 
 ## Potential Extensions
