@@ -38,7 +38,7 @@ Make sure you update:
 - Google Apps Script URL
 
 ### Circuit digram
-![wiring](Assets/Circuit Digram.PNG)
+![Circuit Digram](Assets/Circuit Digram.PNG)
 
 ### hardware
 ![hardware](Assets/hardware.jpg)
